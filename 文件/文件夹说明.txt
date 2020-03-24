@@ -1,0 +1,3 @@
+read.py——将student.txt转化为total.xls
+new.py——将total.csv转化为tongji.csv
+test.py——将tongji.csv画出统计图
